@@ -14,3 +14,4 @@ Notes and usage details for WideSearch.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
